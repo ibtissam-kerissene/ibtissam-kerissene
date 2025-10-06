@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineering Student From Morocco</h3>
 <hr>
 About Me <br>
-- 🎓 Software Engineering student with a strong interest in Software Development  
+- 🎓 Software Engineering student with a strong interest in Software Development  <br>
 - 💡 Passionate about building efficient, scalable, and user-centered applications 
 <hr>
 <h3 align="left">Connect with me:</h3>
