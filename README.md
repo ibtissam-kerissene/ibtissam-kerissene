@@ -1,15 +1,15 @@
 <h1 align="center">Hi , I'm Ibtissam KERISSENE</h1>
 <h3 align="center">A Passionate Software Engineering Student From Morocco</h3>
-
+<hr>
 **About Me**
-- 🎓 Software Engineering student with a strong interest in **software development** and **system design**  
+- 🎓 Software Engineering student with a strong interest in **software development**  
 - 💡 Passionate about building efficient, scalable, and user-centered applications 
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ibtissam-kerissene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ibtissam-kerissene" height="30" width="40" /></a>
 </p>
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -27,5 +27,5 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 <hr>
-💬 Quote
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+💬 Quote <br>
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
