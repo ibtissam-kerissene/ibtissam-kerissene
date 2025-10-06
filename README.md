@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Ibtissam KERISSENE</h1>
 <h3 align="center">A Passionate Software Engineering Student From Morocco</h3>
 <hr>
-<h3 align="left">About Me</h3>  <br>
+<h3 align="left">About Me</h3>
 - 🎓 Software Engineering student with a strong interest in Software Development  <br>
 - 💡 Passionate about building efficient, scalable, and user-centered applications 
 <hr>
@@ -27,5 +27,5 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 <hr>
-💬 <h3 align="left">Quote </h3><br>
+ <h3 align="left">💬Quote </h3>
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
